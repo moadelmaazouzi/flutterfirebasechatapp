@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966934866430",
+    "project_id": "messagemeapp-7835c",
+    "storage_bucket": "messagemeapp-7835c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966934866430:android:6cfa62f22814a93da978af",
+        "android_client_info": {
+          "package_name": "com.moad.my_animated_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRIAczn2OyzOZT02GX-us54u5Wf04oWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
